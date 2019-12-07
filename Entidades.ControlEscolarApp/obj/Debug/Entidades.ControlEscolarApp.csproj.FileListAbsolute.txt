@@ -1,0 +1,12 @@
+C:\Users\The Dark Knight\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\The Dark Knight\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\The Dark Knight\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\The Dark Knight\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.csproj.CoreCompileInputs.cache
+C:\Users\The Dark Knight\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\The Dark Knight\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\HP\Desktop\ControlEscolarApp - copia\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\HP\Desktop\ControlEscolarApp - copia\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\HP\Desktop\ControlEscolarApp - copia\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ControlEscolarApp - copia\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ControlEscolarApp - copia\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\HP\Desktop\ControlEscolarApp - copia\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.pdb
